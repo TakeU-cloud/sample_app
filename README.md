@@ -13,3 +13,5 @@ git add -A
 git commit -m "Initialize repository"
 git commit -am "Improve the README"
 
+# GitHubのリモートリポジトリにPushする
+git remote add origin git@github.com:TakeU-cloud/sample_app.git
