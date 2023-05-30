@@ -18,6 +18,8 @@ end
 
 group :development do
   gem "web-console", "4.2.0"
+  gem "pry-rails"
+  gem "pry-byebug"
 end
 
 group :test do

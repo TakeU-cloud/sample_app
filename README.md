@@ -16,3 +16,5 @@ git commit -am "Improve the README"
 # GitHubのリモートリポジトリにPushする
 git remote add origin git@github.com:TakeU-cloud/sample_app.git  
 git push origin main  
+
+ローカル環境なので、rails sコマンドでサーバーが起動する。
